@@ -1,7 +1,16 @@
 # Genestealer Cults
 
-## Roster (100)
+## Roster
 
+| Name | Model | Points | Wargear | Abilities |
+|---|---|---|---|---|
+| Mordecai Rezzekh  | Acolyte Leader | 15 |was Cult Icon, Hand Flamer | **Leader** _As long as this model is on the battlefield and not shaken, you gain an additional Command Point at the beginning of the battle round._ |
+| Foyle Carleon | Acolyte Fighter | 11 |  Auto Pistol, Demo Charge | **Demo** _You can add 1 to this model’s wound rolls against targets that are obscured_ |
+| Isaak Helm | Acolyte Fighter | 22 | Autopistol, Heavy Rock Saw | **Combat** _Add 1 to this model’s Attacks characteristic_ |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 ### Mordecai Rezzekh (15)
 
 Acolyte Leader
