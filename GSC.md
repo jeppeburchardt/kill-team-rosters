@@ -13,10 +13,10 @@
 | Hollum Gorl | Neophyte Gunner | 8 | Grenade Launcher, Knife |  |
 | Judh Druchmann | Neophyte | 5 | Shotgun, Knife |  |
 | Jerec Novek | Neophyte | 5 | Shotgun, Knife |  |
-|  | Genestealer | 11 | Acid Maw, Rending Claws | **Scout** You can re-roll Advance rolls for this model |
-|  | Genestealer | 11 | Rending Claws |  |
-|  | Genestealer | 11 | Rending Claws |  |
-|  | Genestealer | 11 | Rending Claws |  |
+| The Lurking Butcher | Genestealer | 11 | Acid Maw, Rending Claws | **Scout** You can re-roll Advance rolls for this model |
+| The Sudden Executioner | Genestealer | 11 | Rending Claws |  |
+| The Bladed Doom | Genestealer | 11 | Rending Claws |  |
+| The Hungry Menace | Genestealer | 11 | Rending Claws |  |
 
 ## Tables
 
