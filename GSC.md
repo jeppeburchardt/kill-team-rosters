@@ -7,96 +7,16 @@
 | Mordecai Rezzekh  | Acolyte Leader | 15 |was Cult Icon, Hand Flamer | **Leader** _As long as this model is on the battlefield and not shaken, you gain an additional Command Point at the beginning of the battle round._ |
 | Foyle Carleon | Acolyte Fighter | 11 |  Auto Pistol, Demo Charge | **Demo** _You can add 1 to this model’s wound rolls against targets that are obscured_ |
 | Isaak Helm | Acolyte Fighter | 22 | Autopistol, Heavy Rock Saw | **Combat** _Add 1 to this model’s Attacks characteristic_ |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-### Mordecai Rezzekh (15)
-
-Acolyte Leader
-**Leader** _As long as this model is on the battlefield and not shaken, you gain an additional Command Point at the beginning of the battle round._
-
-- Cult Icon
-- Hand Flamer
-
-### Foyle Carleon (11)
-
-Acolyte Fighter
-**Demo** _You can add 1 to this model’s wound rolls against targets that are obscured_
-
-- Auto Pistol
-- Demo Charge
-
-### Isaak Helm(12)
-
-Acolyte Fighter
-**Combat** _Add 1 to this model’s Attacks characteristic_
-
-- Autopistol
-- Heavy Rock Saw
-
-### Xandus Sammer(9)
-
-Acolyte
-
-- Hand Flamer
-- Rending Claws
-- Knife
-
-### Basc Sammer (9)
-
-Acolyte
-
-- Hand Flamer
-- Rending Claws
-- Knife
-
-### Kol Drisso (9)
-
-Neophyte Gunner
-
-- Flamer
-- Knife
-
-### Hollum Gorl (8)
-
-Neophyte Gunner
-
-- Grenade Launcher 
-- Knife
-
-### Judh Druchmann (5)
-
-Neophyte
-
-- Shotgun
-- Knife
-
-### Jerec Novek (5)
-
-Neophyte
-
-- Shotgun
-- Knife
-
-### Genestealer (11)
-
-**Scout** You can re-roll Advance rolls for this model
-
-- Acid Maw
-- Rending Claws
-
-### Genestealer (11)
-
-- Rending Claws
-
-### Genestealer (11)
-
-- Rending Claws
-
-### Genestealer (11)
-
-- Rending Claws
+| Xandus Sammer | Acolyte  | 9 | Hand Flamer, Rending Claws, Knife |  |
+| Basc Sammer | Acolyte  | 9 | Hand Flamer, Rending Claws, Knife |  |
+| Kol Drisso | Neophyte Gunner | 9 | Flamer, Knife |  |
+| Hollum Gorl | Neophyte Gunner | 8 | Grenade Launcher, Knife |  |
+| Judh Druchmann | Neophyte | 5 | Shotgun, Knife |  |
+| Jerec Novek | Neophyte | 5 | Shotgun, Knife |  |
+|  | Genestealer | 11 | Acid Maw, Rending Claws | **Scout** You can re-roll Advance rolls for this model |
+|  | Genestealer | 11 | Rending Claws |  |
+|  | Genestealer | 11 | Rending Claws |  |
+|  | Genestealer | 11 | Rending Claws |  |
 
 ## Tables
 
